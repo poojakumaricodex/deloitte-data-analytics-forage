@@ -73,7 +73,7 @@ The machines contributing most to downtime were:
 
 ## Dashboard Preview
 
-<img width="518" height="336" alt="Screenshot 2026-03-09 224116" src="https://github.com/user-attachments/assets/d23e9fb8-8ef8-4f34-8bef-17422240213d" />
+<img width="544" height="354" alt="image" src="https://github.com/user-attachments/assets/21c92d60-68c8-4d44-8c09-89e606946c92" />
 
 
 ---
